@@ -55,4 +55,4 @@ Mai jos, cîteva programe și unelte folositoare, din care studenții pot alege.
 
 **Opțional:** Dacă studenții sînt familiarizați cu versionarea folosind `git` și GitHub, pot contribui la repository-ul acesta cu temele. Alternativ, le vor încărca într-un cloud comunicat ulterior.
 
-Materialele se găsesc și pe GitBook, [aici]().
+Materialele se găsesc și pe GitBook, [aici](https://adrianmanea.gitbook.io/procesarea-si-vizualizarea-datelor-folosind-python/).
