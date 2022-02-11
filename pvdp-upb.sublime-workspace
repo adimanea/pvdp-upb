@@ -1,0 +1,1242 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"GLF",
+				"GLFW_CONTEXT_VERSION_MINOR"
+			],
+			[
+				"GLFW",
+				"GLFW_CONTEXT_VERSION_MAJOR"
+			],
+			[
+				"glEnableverte",
+				"glEnableVertexAttribArray"
+			],
+			[
+				"fragme",
+				"fragmentShaderSource"
+			],
+			[
+				"ver",
+				"vertexShaderSource"
+			],
+			[
+				"gladLoad",
+				"gladLoadGLLoader"
+			],
+			[
+				"glfw",
+				"glfwWindowHint"
+			],
+			[
+				"GLFWwin",
+				"GLFWwindow"
+			],
+			[
+				"HelloWin",
+				"HelloWindowSublime"
+			],
+			[
+				"dire",
+				"include_directories"
+			],
+			[
+				"inc",
+				"inc"
+			],
+			[
+				"ve",
+				"vector"
+			],
+			[
+				"v",
+				"vector"
+			],
+			[
+				"ma",
+				"mathematics"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake Clean.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake NO MAKE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake Script.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ CMake Script.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake NO MAKE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake Script.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ CMake Script.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake NO MAKE.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake Scripts.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ CMake NO MAKE.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ CMake.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ CMake.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminal.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++ THIS CPP in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ ALL CPP in Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/C++ in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/C++ in Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Traditional"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - PdfLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - XeLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Basic Builder - LuaLaTeX"
+				],
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					"Script Builder"
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python in Terminus.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
+			],
+			[
+				"merge",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"zeal",
+				"Zeal: Search"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"pref",
+				"Preferences: Settings"
+			],
+			[
+				"pack dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"lsp ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp disa",
+				"LSP: Disable Language Server in Project"
+			],
+			[
+				"lsp en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"pack inst",
+				"Package Control: Install Package"
+			],
+			[
+				"pack ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"pack en",
+				"Package Control: Enable Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"mono",
+				"Monokai Pro: select theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"br",
+				"Preferences: Browse Packages"
+			],
+			[
+				"new bui",
+				"Build: New Build System"
+			],
+			[
+				"lsp enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"globa",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"bro",
+				"Preferences: Browse Packages"
+			],
+			[
+				"new build",
+				"Build: New Build System"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"pack rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"cmakebuilder",
+				"CMakeBuilder: New Project"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp d",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp sett",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp",
+				"LSP: Toggle Log Panel"
+			],
+			[
+				"disable ls",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"lsp pref",
+				"Preferences: LSP Settings"
+			],
+			[
+				"pref lsp",
+				"Preferences: LSP Settings"
+			],
+			[
+				"lsp enable",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"lsp glo",
+				"LSP: Disable Language Server Globally"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"pack instal",
+				"Package Control: Install Package"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"bropackage",
+				"Preferences: Browse Packages"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"scheme",
+				"UI: Select Color Scheme"
+			],
+			[
+				"latex",
+				"LaTeXTools: Delete temporary files"
+			],
+			[
+				"buil",
+				"Build With: Python"
+			],
+			[
+				"ori d",
+				"Origami: Destroy Current Pane"
+			],
+			[
+				"origam ri",
+				"Origami: Create Pane on the Right"
+			],
+			[
+				"sche",
+				"UI: Select Color Scheme"
+			],
+			[
+				"sidebar",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"latextools pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"check sys",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextoo",
+				"LaTeXTools: Check system"
+			],
+			[
+				"latextools",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"discover",
+				"Package Control: Discover Packages"
+			],
+			[
+				"terminus theme",
+				"Terminus Utilities: Select Theme"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"\\",
+				"Preferences: Key Bindings"
+			],
+			[
+				"build with",
+				"Build With: Python in Terminus"
+			],
+			[
+				"synt py",
+				"Set Syntax: Python"
+			],
+			[
+				"rena",
+				"Rename File"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pack remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"p",
+				"Preferences: Settings"
+			],
+			[
+				"merge ope",
+				"Sublime Merge: Open Repository"
+			],
+			[
+				"origami keyb",
+				"Preferences: Origami Key Bindings"
+			],
+			[
+				"origami key",
+				"Preferences: Origami Key Bindings"
+			],
+			[
+				"origami",
+				"Preferences: Origami Key Bindings"
+			],
+			[
+				"markdown previ",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"color s",
+				"UI: Select Color Scheme"
+			],
+			[
+				"monokai",
+				"Monokai Pro: select theme"
+			],
+			[
+				"pack ",
+				"LaTeXTools: View TeX package documentation"
+			],
+			[
+				"latextools ",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"late",
+				"LaTeXTools: Check system"
+			],
+			[
+				"color sch",
+				"UI: Select Color Scheme"
+			],
+			[
+				"monokai pro",
+				"Monokai Pro: select theme"
+			],
+			[
+				"pandoc",
+				"Pandoc"
+			],
+			[
+				"pack in",
+				"Package Control: Install Package"
+			],
+			[
+				"markdown preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"syn mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"syn markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pack insta",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/repos/pvdp-upb"
+	],
+	"file_history":
+	[
+		"/C/Users/adria/Desktop/soft-gear.md",
+		"/D/repos/pvdp-upb/.gitbook.yaml",
+		"/D/repos/pvdp-upb/cuprins.md",
+		"/D/repos/pvdp-upb/README.md",
+		"/D/repos/learn-opengl/general.md",
+		"/D/repos/learn-opengl/HelloTriangleSublime/hello_triangle.cpp",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/SublimeLinter-gcc/README.md",
+		"/D/repos/learn-opengl/.gitignore",
+		"/C/Users/adria/OneDrive/cpp-headers/glad/include/glad/glad.h",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ CMake Clean.sublime-build",
+		"/D/repos/learn-opengl/HelloWindowSublime/main.cpp",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ CMake Script.sublime-build",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ CMake Clean",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ CMake.sublime-build",
+		"/C/Users/adria/Desktop/cmake_mingw_make_exec.bat",
+		"/C/Users/adria/Desktop/cmake_mingw_make.bat",
+		"/C/Users/adria/Desktop/cmake_mingw.bat",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ CMake Scripts.sublime-build",
+		"/D/repos/learn-opengl/HelloWindowSublime/CMakeLists.txt",
+		"/D/repos/learn-opengl/HelloWindowSublime/HelloWindowSublime.sublime-project",
+		"/D/repos/learn-opengl/HelloWindowCLion/compile_commands.json",
+		"/D/repos/learn-opengl/HelloWindowCLion/CMakeLists.txt",
+		"/D/repos/learn-opengl/HelloWindowCLion/cmake-build-debug/compile_commands.json",
+		"/D/repos/learn-opengl/HelloWindowCLion/main.cpp",
+		"/D/repos/cpp/opengl/SimpleWindow/src/CMakeLists.txt",
+		"/D/repos/cpp/opengl/SimpleWindow/src/main.cpp",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ ALL CPP in Terminal.sublime-build",
+		"/C/Users/adria/Downloads/run.bat",
+		"/C/Users/adria/Downloads/build.bat",
+		"/D/repos/cpp/cmake/cmake-notes.md",
+		"/D/repos/cpp/opengl/SimpleWindow/src/glad.c",
+		"/C/Users/adria/OneDrive/cpp-headers/glfw-3.3.6/glfw-3.3.6/README.md",
+		"/C/Users/adria/OneDrive/cpp-headers/glfw-3.3.6/glfw-3.3.6/build/Makefile",
+		"/D/repos/cpp/cmake/README.md",
+		"/D/repos/cpp/.gitignore",
+		"/D/repos/cpp/general/projects/Permutations/Permutation.cpp",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/LSP.sublime-settings",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/LSP/LSP.sublime-settings",
+		"/C/Users/adria/Downloads/juce-6.1.4-windows/JUCE/README.md",
+		"/D/repos/cpp/projects/Permutations/main.cpp",
+		"/D/repos/cpp/projects/Permutations/monotone.cpp",
+		"/D/repos/cpp/projects/Permutations/monotone.h",
+		"/D/repos/cpp/projects/Permutations/Permutation.cpp",
+		"/D/repos/cpp/projects/Permutations/Permutation.h",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/listaGeneratori.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/generatori.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/rsa.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/test-1342a.md",
+		"/C/Users/adria/AppData/Local/Temp/Rar$DIa25532.31498/Exercitiul 2.rs",
+		"/C/Users/adria/AppData/Local/Temp/criptografie.py.txt",
+		"/C/Users/adria/AppData/Local/Temp/main.cpp",
+		"/C/Users/adria/AppData/Local/Temp/main (1).cpp",
+		"/C/Users/adria/AppData/Local/Temp/1.cpp",
+		"/D/repos/cpp/scratch/vector_size_push_back.cpp",
+		"/D/repos/cpp/scratch/read_while_type.cpp",
+		"/D/repos/cpp/scratch/Polygon.h",
+		"/D/repos/cpp/notes.md",
+		"/D/repos/cpp/scratch/doxygen_test.cpp",
+		"/D/repos/cpp/scratch/first_n_primes.cpp",
+		"/D/repos/cpp/scratch/solovay-strassen.cpp",
+		"/D/repos/cpp/scratch/fermat-prob.cpp",
+		"/D/repos/cpp/scratch/random_generator.cpp",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/C++ in Terminus.sublime-build",
+		"/D/repos/cpp/test.cpp",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/inverse26.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/solovayProb.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/solovay.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/jacobi.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/fermatProb.py",
+		"/C/Users/adria/OneDrive/startup/podcast/video/9 - conjecturi/ep9-conjecturi.md",
+		"/D/repos/startup/gaming/0-general/resurse.md",
+		"/D/repos/startup/lectie/BIB-Sylvester - Designing Games.md",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/putereModulara.py",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/Python in Terminus.sublime-build",
+		"/C/Users/adria/OneDrive/startup/podcast/video/7 - rez/ep7 - rezultate stiintifice.md",
+		"/C/Users/adria/Downloads/listaGeneratori.py",
+		"/C/Users/adria/Downloads/generatori.py",
+		"/C/Users/adria/Downloads/dlog.py",
+		"/C/Users/adria/Downloads/exercitiu.py",
+		"/C/Users/adria/Downloads/rsa.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/cripto.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/test-1342b.md",
+		"/D/repos/adrianmanea.xyz/pages/ep8-arta.php",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/test-1341b.md",
+		"/D/repos/startup/lectie/Bibliografie și lecturi suplimentare.md",
+		"/C/Users/adria/OneDrive/startup/prezentare-am.md",
+		"/C/Users/adria/OneDrive/Documents/misc/maritescu-nemitski/operatorul-nemitski-prezentare-handout.tex",
+		"/C/Users/adria/OneDrive/Documents/misc/maritescu-nemitski/operatorul-nemitski.tex",
+		"/C/Users/adria/OneDrive/Documents/misc/maritescu-nemitski/operatorul-nemitski-prezentare.tex",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/LaTeXTools/Default (Windows).sublime-keymap",
+		"/C/Users/adria/Downloads/main.cpp",
+		"/C/Users/adria/Downloads/Ex2_StanciuMihaela.cpp",
+		"/C/Users/adria/Downloads/StancuRobertGabriel_Ex2.cpp",
+		"/C/Users/adria/OneDrive/startup/podcast/video/7 - rez SHORT/ep7 - rezultate stiintifice SHORT.md",
+		"/D/repos/startup/lectie/BIB-Everything and More - DFW.md",
+		"/D/repos/startup/lectie/BIB-Barrow - Pi in the sky.md",
+		"/D/repos/startup/lectie/MY-Multimi-Filosofie BIB.md",
+		"/D/repos/startup/lectie/MY-Idei generale.md",
+		"/D/repos/startup/lectie/MY-Multimi-Filosofie TEXT.md",
+		"/C/Users/adria/Desktop/test.py",
+		"/C/Users/adria/OneDrive/Documents/teach/0FSA/2021-2022/cripto-fsa/lab/listaPatrate.py",
+		"/D/repos/startup/lectie/BIB-Istoria matematicii - Pitagoreicii.md",
+		"/D/repos/startup/lectie/BIB-Rucker - Infinity.md",
+		"/D/repos/startup/lectie/BIB-Infinity - Plato.Stanford.md",
+		"/D/repos/startup/lectie/BIB-Furley - Infinite Universe.md",
+		"/D/repos/startup/lectie/MY-Multimi-Istorie BIB.md",
+		"/D/repos/startup/lectie/MY-Multimi-Istorie IDEI.md",
+		"/D/repos/startup/lectie/MY-Multimi-Istorie TEXT.md",
+		"/D/repos/startup/lectie/MY-Multime-Istorie TEXT.md",
+		"/D/repos/startup/README.md",
+		"/D/repos/startup/misc/oferta.md",
+		"/D/repos/adrianmanea.xyz/pages/ep5-dim.php",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/LaTeXTools.sublime-settings",
+		"/C/Users/adria/OneDrive/Documents/teach/tutor/ionut/algebra12/tema-izomorfisme.tex",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/D/repos/startup/lectie/MY-Introducere BIB.md",
+		"/D/repos/startup/lectie/MY-Introducere TEXT.md",
+		"/D/repos/startup/misc/README.md",
+		"/D/repos/startup/lectie/BIB-Aleph - Aczel.md",
+		"/D/repos/startup/lectie/BIB-Wilder - Math as a Cultural System.md",
+		"/D/repos/startup/misc/inspiratie.md",
+		"/D/repos/startup/gaming/farcry3/resurse.md",
+		"/D/repos/startup/design/README.md",
+		"/D/repos/startup/extra/README.md",
+		"/D/repos/startup/gaming/README.md",
+		"/D/repos/startup/lectie/README.md",
+		"/D/repos/startup/marketing/README.md"
+	],
+	"find":
+	{
+		"height": 52.0
+	},
+	"find_in_files":
+	{
+		"height": 121.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 51.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 249.0
+	},
+	"output.exec":
+	{
+		"height": 302.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.language servers":
+	{
+		"height": 528.0
+	},
+	"output.latextools":
+	{
+		"height": 132.0
+	},
+	"output.markdown":
+	{
+		"height": 132.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "pvdp-upb.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"trian",
+				"notes\\HelloTriangle.md"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"no",
+				"notes.md"
+			],
+			[
+				"readm",
+				"README.md"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"triangle",
+				"HelloTriangleSublime\\hello_triangle.cpp"
+			],
+			[
+				"giti",
+				".gitignore"
+			],
+			[
+				"compil",
+				"HelloWindowCLion\\compile_commands.json"
+			],
+			[
+				"cmake",
+				"HelloWindowCLion\\CMakeLists.txt"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"gam",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"note",
+				"notes.md"
+			],
+			[
+				"gaming",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"desi",
+				"lectie\\BIB-Sylvester - Designing Games.md"
+			],
+			[
+				"ep8",
+				"pages\\ep8-arta.php"
+			],
+			[
+				"gene",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"biblio",
+				"lectie\\Bibliografie și lecturi suplimentare.md"
+			],
+			[
+				"game",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"tex",
+				"operatorul-nemitski.tex"
+			],
+			[
+				"dfw",
+				"lectie\\BIB-Everything and More - DFW.md"
+			],
+			[
+				"idei",
+				"lectie\\MY-Idei generale.md"
+			],
+			[
+				"filosofie bib",
+				"lectie\\MY-Multimi-Filosofie BIB.md"
+			],
+			[
+				"pi in",
+				"lectie\\BIB-Barrow - Pi in the sky.md"
+			],
+			[
+				"filo",
+				"lectie\\MY-Multimi-Filosofie TEXT.md"
+			],
+			[
+				"general",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"genera",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"multime bi",
+				"lectie\\MY-Multimi-Istorie BIB.md"
+			],
+			[
+				"multimi istorie",
+				"lectie\\MY-Multime-Istorie TEXT.md"
+			],
+			[
+				"gming g",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"multime istori",
+				"lectie\\MY-Multime-Istorie TEXT.md"
+			],
+			[
+				"infinite",
+				"lectie\\BIB-Furley - Infinite Universe.md"
+			],
+			[
+				"gaming genera",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"oferta",
+				"misc\\oferta.md"
+			],
+			[
+				"multimi text",
+				"lectie\\MY-Multime-Istorie TEXT.md"
+			],
+			[
+				"dim",
+				"pages\\ep5-dim.php"
+			],
+			[
+				"inv",
+				"inverse26.py"
+			],
+			[
+				"readme misc",
+				"misc\\README.md"
+			],
+			[
+				"bib",
+				"lectie\\BIB-Aleph - Aczel.md"
+			],
+			[
+				"",
+				"lectie\\Bibliografie și lecturi suplimentare.md"
+			],
+			[
+				"bib ",
+				"lectie\\BIB-Barrow - Pi in the sky.md"
+			],
+			[
+				"bib ac",
+				"lectie\\BIB-Aleph - Aczel.md"
+			],
+			[
+				"intro bi",
+				"lectie\\MY-Introducere BIB.md"
+			],
+			[
+				"cultu",
+				"lectie\\BIB-Wilder - Math as a Cultural System.md"
+			],
+			[
+				"text",
+				"lectie\\MY-Introducere TEXT.md"
+			],
+			[
+				"greci",
+				"lectie\\BIB-Istoria matematicii - Pitagoreicii.md"
+			],
+			[
+				"fb",
+				"marketing\\fb-poligon.md"
+			],
+			[
+				"boy",
+				"lectie\\BIB-Boyer - History of Mathematics.md"
+			],
+			[
+				"b arr",
+				"lectie\\BIB-Barrow - Pi in the sky.md"
+			],
+			[
+				"bibl",
+				"lectie\\Bibliografie și lecturi suplimentare.md"
+			],
+			[
+				"resu general",
+				"gaming\\0-general\\resurse.md"
+			],
+			[
+				"acz",
+				"lectie\\BIB-Aleph - Aczel.md"
+			],
+			[
+				"l2",
+				"ch\\l2-baza-apl.tex"
+			],
+			[
+				"mesop",
+				"lectie\\BIB-Istoria matematicii - Mesopotamia.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\repos\\startup\\startup.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 299.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
