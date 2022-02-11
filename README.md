@@ -37,6 +37,8 @@ studenților.
 **alt limbaj de programare preferă**. Observația se aplică și uneltelor de lucru
 (sistemului de operare, editorul text/IDE-ul, compilatorul/interpretorul etc.).
 
+Cuprinsul efectiv este [aici](./cuprins.md).
+
 ## Modalități de evaluare
 1. Preferabil, evaluarea se va face în mod continuu, pe parcursul semestrului. Astfel, studenții au posibilitatea să răspundă la întrebări, să rezolve exerciții și teme scurte.
 2. Alternativ sau suplimentar, studenții pot realiza un proiect amplu, pornind de la o temă la alegere, comunicată profesorului și aprobată de acesta. Un proiect bun -- atît din punctul de vedere al implementării, cît și al prezentării -- poate echivala răspunsurile de pe parcursul semestrului.
