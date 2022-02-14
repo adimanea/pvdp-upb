@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"main",
+				"ifmain"
+			],
+			[
 				"GLF",
 				"GLFW_CONTEXT_VERSION_MINOR"
 			],
@@ -61,10 +65,7 @@
 			]
 		]
 	},
-	"buffers":
-	[
-	],
-	"build_system": "",
+	"build_system": "Packages/User/Python in Terminus.sublime-build",
 	"build_system_choices":
 	[
 		[
@@ -362,6 +363,30 @@
 					"Syntax Check"
 				],
 				[
+					"Packages/SendCode/build_systems/IPython - Source File.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python in Terminus.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/Python in Terminus.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
 					"Packages/User/Python in Terminus.sublime-build",
 					""
 				]
@@ -384,12 +409,12 @@
 				"Package Control: Install Package"
 			],
 			[
-				"pack install",
-				"Package Control: Install Package"
-			],
-			[
 				"merge",
 				"Sublime Merge: Open Repository"
+			],
+			[
+				"pack install",
+				"Package Control: Install Package"
 			],
 			[
 				"zeal",
@@ -734,16 +759,17 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/D/repos/pvdp-upb"
-	],
 	"file_history":
 	[
-		"/C/Users/adria/Desktop/soft-gear.md",
-		"/D/repos/pvdp-upb/.gitbook.yaml",
+		"/D/repos/pvdp-upb/lab1-programare/exemple/n-cmmdc.py",
+		"/D/repos/pvdp-upb/lab0-setup/README.md",
 		"/D/repos/pvdp-upb/cuprins.md",
 		"/D/repos/pvdp-upb/README.md",
+		"/D/repos/pvdp-upb/lab1-programare/README.md",
+		"/D/repos/pvdp-upb/lab1-programare/exemple/litere.py",
+		"/D/repos/pvdp-upb/lab0-setup/test-setup.py",
+		"/C/Users/adria/Desktop/soft-gear.md",
+		"/D/repos/pvdp-upb/.gitbook.yaml",
 		"/D/repos/learn-opengl/general.md",
 		"/D/repos/learn-opengl/HelloTriangleSublime/hello_triangle.cpp",
 		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/SublimeLinter-gcc/README.md",
@@ -862,12 +888,7 @@
 		"/D/repos/startup/lectie/BIB-Aleph - Aczel.md",
 		"/D/repos/startup/lectie/BIB-Wilder - Math as a Cultural System.md",
 		"/D/repos/startup/misc/inspiratie.md",
-		"/D/repos/startup/gaming/farcry3/resurse.md",
-		"/D/repos/startup/design/README.md",
-		"/D/repos/startup/extra/README.md",
-		"/D/repos/startup/gaming/README.md",
-		"/D/repos/startup/lectie/README.md",
-		"/D/repos/startup/marketing/README.md"
+		"/D/repos/startup/gaming/farcry3/resurse.md"
 	],
 	"find":
 	{
@@ -901,14 +922,6 @@
 		"whole_word": false,
 		"wrap": true
 	},
-	"groups":
-	[
-		{
-			"sheets":
-			[
-			]
-		}
-	],
 	"incremental_find":
 	{
 		"height": 27.0
@@ -916,28 +929,6 @@
 	"input":
 	{
 		"height": 51.0
-	},
-	"layout":
-	{
-		"cells":
-		[
-			[
-				0,
-				0,
-				1,
-				1
-			]
-		],
-		"cols":
-		[
-			0.0,
-			1.0
-		],
-		"rows":
-		[
-			0.0,
-			1.0
-		]
 	},
 	"menu_visible": true,
 	"output.SublimeLinter":
@@ -977,7 +968,6 @@
 		"height": 130.0
 	},
 	"pinned_build_system": "",
-	"project": "pvdp-upb.sublime-project",
 	"replace":
 	{
 		"height": 50.0
@@ -990,12 +980,16 @@
 		"selected_items":
 		[
 			[
-				"trian",
-				"notes\\HelloTriangle.md"
-			],
-			[
 				"readme",
 				"README.md"
+			],
+			[
+				"cupr",
+				"cuprins.md"
+			],
+			[
+				"trian",
+				"notes\\HelloTriangle.md"
 			],
 			[
 				"no",
@@ -1226,7 +1220,6 @@
 		],
 		"width": 0.0
 	},
-	"selected_group": 0,
 	"settings":
 	{
 	},
