@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"pozi",
+				"pozitiiCriptate"
+			],
+			[
 				"main",
 				"ifmain"
 			],
@@ -405,12 +409,12 @@
 		"selected_items":
 		[
 			[
-				"pack ins",
-				"Package Control: Install Package"
-			],
-			[
 				"merge",
 				"Sublime Merge: Open Repository"
+			],
+			[
+				"pack ins",
+				"Package Control: Install Package"
 			],
 			[
 				"pack install",
@@ -761,11 +765,15 @@
 	},
 	"file_history":
 	[
+		"/D/repos/pvdp-upb/lab1-programare/exemple/caesar.py",
+		"/D/repos/pvdp-upb/lab1-programare/exemple/ec2.py",
+		"/D/repos/pvdp-upb/lab1-programare/exemple/6din49.py",
+		"/D/repos/pvdp-upb/lab1-programare/README.md",
+		"/D/repos/pvdp-upb/lab1-programare/exercitii.md",
 		"/D/repos/pvdp-upb/lab1-programare/exemple/n-cmmdc.py",
 		"/D/repos/pvdp-upb/lab0-setup/README.md",
 		"/D/repos/pvdp-upb/cuprins.md",
 		"/D/repos/pvdp-upb/README.md",
-		"/D/repos/pvdp-upb/lab1-programare/README.md",
 		"/D/repos/pvdp-upb/lab1-programare/exemple/litere.py",
 		"/D/repos/pvdp-upb/lab0-setup/test-setup.py",
 		"/C/Users/adria/Desktop/soft-gear.md",
@@ -884,11 +892,7 @@
 		"/C/Users/adria/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
 		"/D/repos/startup/lectie/MY-Introducere BIB.md",
 		"/D/repos/startup/lectie/MY-Introducere TEXT.md",
-		"/D/repos/startup/misc/README.md",
-		"/D/repos/startup/lectie/BIB-Aleph - Aczel.md",
-		"/D/repos/startup/lectie/BIB-Wilder - Math as a Cultural System.md",
-		"/D/repos/startup/misc/inspiratie.md",
-		"/D/repos/startup/gaming/farcry3/resurse.md"
+		"/D/repos/startup/misc/README.md"
 	],
 	"find":
 	{
@@ -979,6 +983,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"lab1",
+				"lab1-programare\\README.md"
+			],
 			[
 				"readme",
 				"README.md"
