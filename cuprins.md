@@ -7,6 +7,9 @@
 * [Ghid simplu](./lab0-setup/README.md)
 
 # Laborator 1: Paradigme de programare și introducere Python
-* [Scurtă teorie](./lab1-programare/README.md)
-* [Exerciții rezolvate](./lab1-programare/exemple)
+* [Scurtă teorie și exemple](./lab1-programare/README.md)
 * [Exerciții propuse](./lab1-programare/exercitii.md)
+
+# Laborator 2: Lucrul cu fișiere text și funcții matematice
+* [Scurtă teorie și exemple](./lab2-fisiere-mate/README.md)
+* [Exerciții propuse](./lab2-fisere-mate/exercitii.md)
