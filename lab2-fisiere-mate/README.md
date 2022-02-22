@@ -339,3 +339,4 @@ Acestea se găsesc în modulul `math`, a cărui documentație este [aici](https:
 Cîteva exemple, precum și utilizarea lor găsiți în exercițiile rezolvate de mai jos.
 
 ## Exerciții rezolvate
+- [calculator simplu care exemplifică funcții matematice](./exemple/mate.py);
