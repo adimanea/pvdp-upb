@@ -340,3 +340,7 @@ Cîteva exemple, precum și utilizarea lor găsiți în exercițiile rezolvate d
 
 ## Exerciții rezolvate
 - [calculator simplu care exemplifică funcții matematice](./exemple/mate.py);
+- [suma numerelor dintr-un fișier, scrisă într-un alt fișier](./exemple/sumaFisier.py);
+- [statistici pe cuvinte din fișier](./exemple/cuvinte.py);
+- [cuvînt din inițiale](./exemple/initiale.py)
+- [punctul din plan cel mai apropiat de un punct dat](./exemple/punct.py)

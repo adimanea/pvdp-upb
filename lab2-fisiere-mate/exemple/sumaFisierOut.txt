@@ -1,0 +1,2 @@
+Suma numerelor din fisier este
+35678
