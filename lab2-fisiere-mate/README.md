@@ -15,6 +15,10 @@ putem lucra cu astfel de fișiere detaliate în codul sursă, sau le putem
 folosi drept *argumente* atunci cînd rulăm programul. Vom vedea avantajele
 și dezavantajele fiecăreia dintre cele două metode.
 
+**Observație:** Exemplele de mai jos se vor adresa problemelor de lucru cu
+fișiere text simple, aflate în directorul curent sau cu o cale cunoscută.
+Pentru lucrul cu fișiere la nivel de sistem, se poate folosi modulul [os](https://docs.python.org/3/library/os.html).
+
 ## Fișere text în cod
 Ca în majoritatea limbajelor de programare, lucrul cu fișiere se bazează
 pe atribuirea lor la variabile din program, precum și pe folosirea unor
