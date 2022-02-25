@@ -348,3 +348,6 @@ Cîteva exemple, precum și utilizarea lor găsiți în exercițiile rezolvate d
 - [statistici pe cuvinte din fișier](./exemple/cuvinte.py);
 - [cuvînt din inițiale](./exemple/initiale.py)
 - [punctul din plan cel mai apropiat de un punct dat](./exemple/punct.py)
+
+## Exerciții propuse
+[Aici.](./exercitii.md).
