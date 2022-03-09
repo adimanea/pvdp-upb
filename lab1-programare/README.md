@@ -146,4 +146,4 @@ Cei care preferă să citească și să exerseze pornind de la tutoriale, recoma
 Sau, dacă preferați o carte, recomand pe cea a lui [Gaddis](https://www.pearson.com/us/higher-education/program/Gaddis-My-Lab-Programming-with-Pearson-e-Text-Access-Card-for-Starting-out-with-Python-5th-Edition/PGM2889368.html).
 
 ## Exerciții
-[Aici](./exercitii).
+[Aici](./exercitii.md).
