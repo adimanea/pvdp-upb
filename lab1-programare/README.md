@@ -131,7 +131,7 @@ modificări în cod care să rezolve o problemă similară.
 - [operații simple cu `string`](./exemple/litere.py);
 - [criptosistemul Caesar](./exemple/caesar.py);
 - [rezolvarea ecuației de gradul al doilea, cazul rădăcinilor reale](./exemple/ec2.py);
-- [6/49](./exercitii/6din49.py).
+- [6/49](./exemple/6din49.py).
 
 ## Tutoriale
 Cei care preferă să citească și să exerseze pornind de la tutoriale, recomand cîteva:
@@ -144,3 +144,6 @@ Cei care preferă să citească și să exerseze pornind de la tutoriale, recoma
 - [@ Harvard](http://tdc-www.harvard.edu/Python.pdf).
 
 Sau, dacă preferați o carte, recomand pe cea a lui [Gaddis](https://www.pearson.com/us/higher-education/program/Gaddis-My-Lab-Programming-with-Pearson-e-Text-Access-Card-for-Starting-out-with-Python-5th-Edition/PGM2889368.html).
+
+## Exerciții
+[Aici](./exercitii).
