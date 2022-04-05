@@ -13,3 +13,6 @@
 # Laborator 2: Lucrul cu fișiere text și funcții matematice
 * [Scurtă teorie și exemple](./lab2-fisiere-mate/README.md)
 * [Exerciții propuse](./lab2-fisere-mate/exercitii.md)
+
+# Laborator 3: Jupyter
+* [Scurtă teorie, documentație și exemple](./lab3-jupyter/README.md)
