@@ -16,3 +16,4 @@
 
 # Laborator 3: Jupyter
 * [Scurtă teorie, documentație și exemple](./lab3-jupyter/README.md)
+* [Exemple mai complexe](./lab3-jupyter/jupyter-notebooks/exemple-ACS)
