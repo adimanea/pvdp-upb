@@ -178,3 +178,99 @@ Bilet 3: 1 ghicit
   - realizați o extragere folosind `random.randint(1, 49)`;
   - verificați cîte numere extrase se găsesc în fiecare dintre listele corespunzătoare biletelor;
   - **Puncte bonus dacă refolosiți elemente (funcții, variabile) din blocul anterior, fără a le copia, evident.**
+
+---
+
+## Exerciții suplimentare (20 aprilie 2022)
+Rezolvați toate exercițiile de mai jos într-o singură foaie Jupyter cu titlul (heading 1): `Exerciții în Jupyter 20 aprilie`.
+
+- scrieți un bloc Markdown cu titlul (heading 2): `Ghicește numărul!`;
+- scrieți un bloc Markdown care să conțină descrierea: Codul de mai jos alege un număr aleatoriu între 1 și 100, apoi vă dă posibilitatea de a-l ghici din 10 încercări. Dacă introduceți un număr mai mare decît cel ales, se afișează mesajul `Prea mare!`, iar dacă introduceți un număr mai mic decît cel ales, se afișează mesajul `Prea mic!`. Jocul oferă posibilitatea de a renunța oricînd, dacă se introduce caracterul `q` sau `Q`. La finalul jocului se afișează numărul ales. Exemplu de output:
+```
+Ghicește numărul!
+Încercarea 1: 5
+Prea mic!
+Încercarea 2: 30
+Prea mic!
+Încercarea 3: 58
+Prea mare!
+Încercarea 4: 44
+Prea mare!
+Încercarea 5: q
+Ai renunțat după 5 încercări. Numărul ales era 41.
+```
+- scrieți un bloc Python care să rezolve cerința:
+  + generați numărul folosind `random.randint(1, 100)` și salvați-l într-o variabilă;
+  + "gameplay"-ul va fi o buclă cu condiția de ieșire `nrIncercari < 10`;
+  + testați input-ul pentru early quit (e.g. `if input(f"Încercarea {nrIncercari}: ").lower() == 'q': break`);
+  + pentru condiția de mai sus aveți nevoie să preluați numărul de intrare ca `string`! Deci folosiți `input()`, nu `int(input())` și îl convertiți în `int` doar dacă nu este `q/Q`.
+
+---
+
+- scrieți un bloc Markdown cu titlul (heading 2): `Zaruri`;
+- scrieți un bloc Markdown care să conțină descrierea: Codul de mai jos joacă zaruri. Computerul aruncă 2 zaruri și se afișează rezultatul și suma punctelor de pe cele două zaruri. Apoi aruncă și pentru dumneavoastră și se afișează rezultatul și suma punctelor de pe cele două zaruri. Cîștigă jucătorul cu suma mai mare. Exemplu de output:
+```
+Să jucăm zaruri!
+CPU zar 1: 4
+CPU zar 2: 6
+CPU total: 10
+DVS zar 1: 5 (apăsați Enter)
+DVS zar 2: 2
+DVS total: 7
+CPU cîștigă.
+```
+- scrieți un bloc Python care să rezolve cerința:
+  + generați pe rînd două numere folosind `random.randint(1, 6)` pentru zarurile CPU;
+  + calculați-le suma și salvați-o;
+  + generați pe rînd două numere folosind `random.randint(1, 6)` pentru zarurile DVS;
+  + calculați-le suma și salvați-o;
+  + comparați suma DVS cu suma CPU și afișați mesajul corespunzător.
+
+---
+
+- scrieți un bloc Markdown cu titlul (heading 2): `Mai multe zaruri, mai multe runde`;
+- scrieți un bloc Markdown care să conțină descrierea: Codul de mai jos îmbunătățește jocul de zaruri cu următoarele modificări:
+  + se permite alegerea numărului de zaruri;
+  + se acordă punctaj pe rundă și se oferă posibilitatea jucătorului să continue;
+  + se afișează scorul final și numărul de runde.
+Exemplu de output:
+```
+Să jucăm zaruri!
+RUNDA 1
+--------------------
+Numărul de zaruri: 4
+CPU zar 1: 4
+CPU zar 2: 2
+CPU zar 3: 2
+CPU zar 4: 5
+CPU total: 13
+DVS zar 1: 4 (apăsați Enter)
+DVS zar 2: 4 (apăsați Enter)
+DVS zar 3: 3 (apăsați Enter)
+DVS zar 4: 1
+DVS total: 12
+CPU cîștigă.
+CPU 1 - DVS 0
+Mai jucați (d/n): d
+RUNDA 2
+---------------------
+CPU zar 1: 5
+CPU zar 2: 3
+CPU zar 3: 6
+CPU zar 4: 2
+CPU total: 16
+DVS zar 1: 5 (apăsați Enter)
+DVS zar 2: 4 (apăsați Enter)
+DVS zar 3: 5 (apăsați Enter)
+DVS zar 4: 2
+DVS total: 16
+Egalitate.
+CPU 2 - DVS 1
+Mai jucați (d/n): n
+Ați jucat 2 runde.
+Scorul final CPU 2 - DVS 1.
+CPU cîștigă.
+```
+- scrieți un bloc Python care să rezolve cerința.
+
+**La toate exercițiile se acordă puncte bonus dacă optimizați sau folosiți condiții de validare a datelor.**
