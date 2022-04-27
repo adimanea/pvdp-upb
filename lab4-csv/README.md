@@ -90,7 +90,7 @@ Exercițiile de mai jos pot fi rezolvate fie în fișiere Python, individual, fi
     - afișați valoarea medie de pe o coloană (numerică).
 
 2. Populați un fișier CSV cu date aleatorii:
-    - scrieți prima linie (capul de tabel), de exemplu: `ID Jucător, Victorii, Egaluri, Înfrîngeri`;
+    - scrieți prima linie (capul de tabel), de exemplu: `ID Jucător, Victorii, Egaluri, Înfrîngeri, TOTAL_MECIURI`;
     - completați cu 1000 de linii corespunzătoare, folosind `random.randint(a,b)`, cu `a,b` alese potrivit.
 
 3. Preluați un fișier CSV de pe Internet, cu cîteva (zeci de) mii de date și afișați valoarea medie și valoarea maximă de pe o coloană, precum și ce reprezintă.

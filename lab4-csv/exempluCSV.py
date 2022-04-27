@@ -2,7 +2,7 @@ import csv
 
 # citire din fișier
 with open("inFile.csv", "r") as fisierCSV:
-    listaDate = list(csv.reader(fisierCSV))
+    listaDate = list(csv.reader(fisierCSV))         # !!!
     print("Liniile din fișier, ca liste:")
     for linie in listaDate:
         print(linie)
@@ -15,8 +15,8 @@ linia3 = ['Cluj', '42', '32', '55', '22', '11']
 linia4 = ['Iași', '44', '66', '11', '22', '55']
 
 # adăugăm encoding pentru probleme cu diacriticele
-with open("outFile.csv", "w+",encoding="utf-8") as fisierCSV:
-    scriere = csv.writer(fisierCSV)
+with open("outFile.csv", "w+", encoding="utf-8") as fisierCSV:
+    scriere = csv.writer(fisierCSV)     # creez obiectul de scriere (NU SCRIE!)
     scriere.writerow(linia1)
     scriere.writerow(linia2)
     scriere.writerow(linia3)
