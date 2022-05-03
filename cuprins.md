@@ -20,3 +20,7 @@
 
 # Laborator 4: CSV
 * [Documentație](./lab4-csv/README.md)
+
+# Laborator 5: Statistică
+* [Documentație](./lab5-statistica/README.md)
+* [Exemplu Jupyter](./lab5-statistica/exemplu-statistica.ipynb)
