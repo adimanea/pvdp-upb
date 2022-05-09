@@ -24,3 +24,14 @@
 # Laborator 5: Statistică
 * [Documentație](./lab5-statistica/README.md)
 * [Exemplu Jupyter](./lab5-statistica/exemplu-statistica.ipynb)
+
+# Laborator 6: Grafice discrete
+* [Documentație](./lab6-grafice/README.md)
+* [Exemplu Jupyter](./lab6-grafice/grafice-discrete.ipynb)
+* [Exerciții](./lab6-grafice/exercitii-grafice.md)
+
+# Laborator 7+: Recapitulare
+* [Centralizator](./lab7-recap/README.md)
+* [Examen 2020-2021](./lab7-recap/examen.md)
+* [Modele examen 2020-2021](./lab7-recap/practice.md)
+* [Exerciții diverse](./lab7-recap/recap.md)
