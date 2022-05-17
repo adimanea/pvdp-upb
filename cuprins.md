@@ -33,5 +33,5 @@
 # Laborator 7+: Recapitulare
 * [Centralizator](./lab7-recap/README.md)
 * [Examen 2020-2021](./lab7-recap/examen.md)
-* [Modele examen 2020-2021](./lab7-recap/practice.md)
-* [Exerciții diverse](./lab7-recap/recap.md)
+* [Modele examen 2020-2021](./lab7-recap/recap.md)
+* [Exerciții diverse](./lab7-recap/practice.md)

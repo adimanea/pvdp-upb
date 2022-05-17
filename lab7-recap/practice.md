@@ -55,7 +55,25 @@ Exemplu: `x = 100, output = (2, 2) (5, 2)`, pentru că `100 = 2^2 * 5^2`.
 26. Se dau două numere `n` și `m` de la tastatură. Să se afișeze cîte numere prime există între `n` și `m`, precum și lista acestora. Exemplu: `n = 10, m = 20`, se afișează `[11, 13, 17, 19]` și `4 numere prime`.
 
 ## Statistică și CSV
-TBA.
+27. Alegeți două numere aleatorii folosind `a = random.randint(100,1000)` și `b = random.randint(10,100)`. Apoi generați `b` liste cu cîte `a` elemente. Scrieți listele drept linii într-un fișier CSV (folosind `csv.writer`).
+28. În continuarea exercițiului 27, generați un număr aleator de forma `c = random.randint(0, b)`. Calculați diverse elemente statistice pentru elementele liniei `c` și coloanei `c` (dacă linia respectivă nu există, considerați `c = c % a`):
+    - media;
+    - media ponderată (generînd aleatoriu ponderi între 0 și 1 folosind `random.random()`);
+    - mediana;
+    - modul;
+    - abaterea medie pătratică.
+29. Generați aleatoriu 100 de liste cu 6 numere naturale între 1 și 49, simulînd 100 de bilete la loteria 6/49. Scrieți "biletele" într-un fișier CSV. Generați aleatoriu o extragere (6 numere naturale între 1 și 49) și scrieți care bilet(e) a(u) ghicit cele mai multe numere și care sînt acestea.
+30. Scrieți (de mînă) un fișier CSV care să reprezinte notele unor elevi. Includeți cel puțin 10 elevi, fiecare avînd cel puțin 5 note. 
+    1. Calculați media (aritmetică a) fiecărui elev și media clasei. 
+    2. Refaceți exercițiul dacă ultima notă reprezintă teza, care are o pondere de 3 ori mai mare decît o notă obișnuită.
 
 ## Grafice discrete
-TBA.
+31. În continuarea exercițiului 30, reprezentați grafic:
+    1. folosind histograme sau bar chart notele din clasă (OX = nota, OY = de cîte ori a fost obținută). 
+       1. **BONUS1**: Reprezentați cu o linie orizontală, peste histogramă, media clasei; 
+       2. **BONUS2**: Schimbați setările default de culoare și opacitate. Exemplu: barele din histogramă sau bar chart să fie verzi, opacitate 0.6, orizontala să fie roșie, opacitate 1.
+    2. folosind pie chart, distribuția notelor din clasă, pe intervale (0-4, 5-7, 7-9, 10) (cîte note între 0-4 s-au obținut, cîte note între 5-7 etc.). 
+       1. **BONUS1**: "Explodați" graficul pentru procentul cel mai mare. 
+       2. **BONUS2**: Schimbați setările default de culoare. Exemplu: "feliile" graficului să fie toate nuanțe de albastru.
+    3. (*) folosind scatter plot, distribuția notelor din clasă (OX = nota, OY = de cîte ori a fost obținută) și includeți ca best fit clopotul lui Gauss ([indicație](https://www.geeksforgeeks.org/how-to-plot-a-normal-distribution-with-matplotlib-in-python/) sau [aici](https://www.statology.org/plot-normal-distribution-python/)). 
+       1. **BONUS**: Schimbați setările default de aspect. Exemplu: punctele din scatter plot să fie romburi mov, de opacitate 0.7, iar distribuția gaussiană să fie trasată cu o linie oranj, de opacitate 1.
