@@ -77,20 +77,3 @@ with open('outFile.csv', 'w+') as fisierCSV:
   + [Kaggle datasets](https://www.kaggle.com/datasets) -- necesită cont, gratis;
   + [Google datasets](https://datasetsearch.research.google.com/) -- gratis;
   + Direct de pe GitHub, căutați "dataset" și găsiți, de exemplu, [acest repository](https://github.com/nytimes/covid-19-data), de la NY Times.
-
-## Exerciții
-Exercițiile de mai jos pot fi rezolvate fie în fișiere Python, individual, fie toate într-o singură foaie Jupyter.
-
-1. Exersați citirea și prelucrarea din fișiere CSV:
-    - creați un fișier cu cîteva linii și coloane;
-    - citiți datele în Python;
-    - afișați o linie;
-    - afișați o coloană;
-    - afișați valoarea maximă de pe o coloană (numerică);
-    - afișați valoarea medie de pe o coloană (numerică).
-
-2. Populați un fișier CSV cu date aleatorii:
-    - scrieți prima linie (capul de tabel), de exemplu: `ID Jucător, Victorii, Egaluri, Înfrîngeri, TOTAL_MECIURI`;
-    - completați cu 1000 de linii corespunzătoare, folosind `random.randint(a,b)`, cu `a,b` alese potrivit.
-
-3. Preluați un fișier CSV de pe Internet, cu cîteva (zeci de) mii de date și afișați valoarea medie și valoarea maximă de pe o coloană, precum și ce reprezintă.
