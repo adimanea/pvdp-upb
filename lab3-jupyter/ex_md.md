@@ -11,7 +11,7 @@ potrivit pentru toate gusturile!
 - 🥧 [pască tradițională](https://www.jocooks.com/wp-content/uploads/2019/04/pasca-1-2.jpg);
 - 🍷 vin <span style="color:red"><b>ROȘU</b></span> <span style="color:blue">ro</span><span style="color:yellow">mân</b></span><span style="color:red">esc</span>.
 
-**PREȚ: 250 RON/persoană**.
+💵 **PREȚ: 250 RON/persoană**.
 
 > Vă așteptăm să degustați!
 
