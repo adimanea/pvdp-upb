@@ -1,4 +1,4 @@
-# Meniu Paște 2023
+# 🐰 Meniu Paște 2023 🐰
 
 ![Easter Bunny](https://th.bing.com/th/id/OIF.h4H7EBj5pwiek5w8jm8DQA?pid=ImgDet&rs=1)
 
@@ -6,10 +6,10 @@ Pentru această sărbătoare *minunată*, vă prezentăm **meniul nostru special
 potrivit pentru toate gusturile!
 
 ## Meniu Tradițional
-- ouă fierte și încondenate, *în toate culorile curcubeului!*
-- drob de ~~miel~~ pui;
-- [pască tradițională](https://www.jocooks.com/wp-content/uploads/2019/04/pasca-1-2.jpg);
-- vin <span style="color:red"><b>ROȘU</b></span> <span style="color:blue">ro</span><span style="color:yellow">mân</b></span><span style="color:red">esc</span>.
+- 🥚 ouă fierte și încondenate, *în toate culorile curcubeului!*
+- 🐔 drob de ~~miel~~ pui;
+- 🥧 [pască tradițională](https://www.jocooks.com/wp-content/uploads/2019/04/pasca-1-2.jpg);
+- 🍷 vin <span style="color:red"><b>ROȘU</b></span> <span style="color:blue">ro</span><span style="color:yellow">mân</b></span><span style="color:red">esc</span>.
 
 **PREȚ: 250 RON/persoană**.
 
@@ -18,12 +18,12 @@ potrivit pentru toate gusturile!
 ---
 
 ## Meniu Vegetarian
-- ouă de *soia* fierte și încondeiate cu cerneală **henna**;
-- drob de *ciuperci pleurotus*, cu <u>ierburi aromatice</u>;
-- [prăjitură vegană cu dovleac](https://th.bing.com/th/id/OIP.eeCGR7iGoPlgqR98HKC6BwHaLH?pid=ImgDet&rs=1);
-- vin <span style="color:yellow"><b>ALB</b></span> <span style="color:blue">ro</span><span style="color:yellow">mân</b></span><span style="color:red">esc</span>.
+- 🌱 ouă de *soia* fierte și încondeiate cu cerneală **henna**;
+- 🍄 drob de *ciuperci pleurotus*, cu <u>ierburi aromatice</u>;
+- 🎃 [prăjitură vegană cu dovleac](https://th.bing.com/th/id/OIP.eeCGR7iGoPlgqR98HKC6BwHaLH?pid=ImgDet&rs=1);
+- 🍹 vin <span style="color:yellow"><b>ALB</b></span> <span style="color:blue">ro</span><span style="color:yellow">mân</b></span><span style="color:red">esc</span>.
 
-**PREȚ: 320 RON/persoană**.
+💵 **PREȚ: 320 RON/persoană**.
 
 ---
 
