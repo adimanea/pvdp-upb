@@ -72,6 +72,7 @@ with open('outFile.csv', 'w+') as fisierCSV:
 - documentația oficială a modulului `csv` este [aici](https://docs.python.org/3/library/csv.html);
 - un scurt tutorial, [aici](https://www.geeksforgeeks.org/working-csv-files-python/);
 - **seturi de date**:
+  + [data.gov](https://catalog.data.gov/dataset/) -- seturi de date publice de la Guvernul American;
   + [data.world](https://data.world/datasets/free) -- necesită cont, gratis;
   + [datahub](https://datahub.io/collections) -- gratis;
   + [Kaggle datasets](https://www.kaggle.com/datasets) -- necesită cont, gratis;
