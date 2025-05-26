@@ -4,4 +4,4 @@
 - Exerciții recapitulative pe format examen [aici](recap.md).
 - Exerciții diverse [aici](practice.md).
 - Model examen 2023-2024 [aici](model_examen_2024.md).
-- Model examen 2024-2025 [aici](model_examen_2025.md).
+- Model examen 2024-2025 [aici](modele_examen_2025.md).
