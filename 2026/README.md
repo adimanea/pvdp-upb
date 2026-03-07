@@ -24,7 +24,7 @@ Implementarea preferată va fi pe platforma [Google Colab](https://developers.go
 - [Factfulness](https://en.wikipedia.org/wiki/Factfulness) / [Gapminder](https://www.gapminder.org/factfulness-book/);
 - [Panorama / Infografice](https://panorama.ro/infografice/);
 - [Cărți](https://education.economist.com/insights/reading-list/seven-books-that-reveal-the-power-of-data) recomandate de The Economist;
-
+- Articolele lui Radu Stochița, de exemplu, de la [Școala9](https://scoala9.ro/redactia/radu-stochita/183).
 
 ## Exemple de seturi de date
 - [data.gov.ro](https://data.gov.ro/en/);
